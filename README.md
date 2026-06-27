@@ -110,9 +110,11 @@ If their code has issues, you can comment on the lines of code, chat with them, 
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-FORK = Cloud-to-Cloud Copy. You make a copy of someone else's book on GitHub and put it on your GitHub account. It is still in the cloud.
+**Confused between Clone and Fork 😕🤔
 
-CLONE = Cloud-to-Laptop Copy. You download a copy of a book from GitHub onto your actual physical computer so you can type on it.
+FORK = Cloud-to-Cloud Copy. You make a copy of someone else's book on GitHub and put it on our GitHub account. It is still in the cloud.
+
+CLONE = Cloud-to-Laptop Copy. We download a copy of a book from GitHub onto our actual physical computer so we can type on it.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
