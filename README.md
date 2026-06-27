@@ -167,10 +167,10 @@ The Correct Terminal Sequence:
 
 🚦 File Lifecycles & States -> When we run git status, files are categorized into distinct tracking states:
 
-   1)Untracked: Brand new files created locally that Git is not yet watching.
-   2)Modified: Existing files that have been changed or edited.
-   3)Unmodified: Files that have no new changes compared to the last save point.
-   4)Staged: Tracked changes that are prepared and bundled, ready to be officially saved in the next commit snapshot.
+1)Untracked: Brand new files created locally that Git is not yet watching.
+2)Modified: Existing files that have been changed or edited.
+3)Unmodified: Files that have no new changes compared to the last save point.
+4)Staged: Tracked changes that are prepared and bundled, ready to be officially saved in the next commit snapshot.
    
 Moving from Untracked to Tracked -> New files do not get saved by Git automatically. To move files into the Staged area, we must manually run the **git add** command. 
 Once staged, we use **git commit** to seal them into our project's official history timeline.
