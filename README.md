@@ -110,7 +110,7 @@ If their code has issues, you can comment on the lines of code, chat with them, 
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-**Confused between Clone and Fork 😕🤔
+**Confused between Clone and Fork 😕🤔**
 
 FORK = Cloud-to-Cloud Copy. You make a copy of someone else's book on GitHub and put it on our GitHub account. It is still in the cloud.
 
